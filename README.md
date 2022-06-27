@@ -53,7 +53,3 @@
 ## Deployment Link
 ### Click [Here](https://flight-fare-prediction-an.herokuapp.com/)
 
-
-## User Interface
-
-![](https://github.com/adityanaranje/FLIGHT-FARE-PREDICTION/blob/main/static/flight.jpg)
